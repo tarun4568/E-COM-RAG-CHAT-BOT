@@ -109,6 +109,10 @@ E-Commerce_RAG_Chatbot/
 - Python 3.10+
 - OpenAI API key
 
+## Documents Reference
+https://github.com/tarun4568/E-COM-RAG-CHAT-BOT/tree/main/documents
+- store documents in required folder
+
 ### 1. Clone / navigate to the project folder
 ```bash
 cd "E-Commerce_RAG_Chatbot"
